@@ -1,5 +1,10 @@
 Invest::Application.routes.draw do
-  resources :angels
+  resources :angels do
+    member do
+      get 'csv_import'
+    end
+  end
+
 
   get "home/index"
 
@@ -8,6 +13,7 @@ Invest::Application.routes.draw do
 
   # Sample of regular route:
     match 'invest/:key' => 'angels#show'
+    match 'angels/import' => 'angels#csv_import'
   # Keep in mind you can assign values other than :controller and :action
 
   # Sample of named route:

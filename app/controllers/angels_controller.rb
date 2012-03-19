@@ -80,4 +80,12 @@ class AngelsController < ApplicationController
       format.json { head :no_content }
     end
   end
+
+#script to upload CSV files of angels
+require 'csv'
+  def csv_import
+     CSV.foreach("public/newangels.txt", :quote_char => '"', :col_sep =>',', :row_sep =>:auto) do |row|
+       Angel.create!(:key => row[0], :fullname => row[1], :company => row[2], :custom => row[3])
+    end
+  end
 end

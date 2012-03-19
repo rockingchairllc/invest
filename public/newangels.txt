@@ -1,0 +1,57 @@
+key,fullname,company,custom
+Yosemite,Peter Hershberg,You,null
+Valley,Eric Friedman,You,null
+demnud,Michael Wolffe,You,null
+Goose,Charlie O'Donnell,Brooklyn Bridge Ventures,null
+cap,Andrew Parker,Spark Capital,null
+absolve,Eric Chen,You,null
+Marion,Sarah Tavel,Bessemer Venture Partners,null
+Francis,Naval Ravikant,Your angel friends,null
+Hyalite,Steven Carpenter,Accel Partners,null
+Bondage,Scott Belsky,You,null
+Asparagus,Sam Teller,Charlie Ventures,null
+setaceous,Adam Lilling,Launchpad LA,null
+scalare,Josh Webb,Launchpad LA,null
+Gutturalness,David Bookspan,DreamIt Ventures,null
+liverish,Michael Levinson,DreamIt Ventures,null
+Lying,Steven Welch,DreamIt Ventures,null
+panel,Steve Barsh,DreamIt Ventures,null
+floating,Kerry Rupp,DreamIt Ventures,null
+rib,Mark Wachen,DreamIt Ventures,null
+Monardella,William Crowder,DreamIt Ventures,null
+Convallariaceae,Jennifer Stranzl,NYC Seed,null
+louse,Owen Davis,NYC Seed,null
+sweet,Habib Kairouz,NYC Seed,null
+on,David Frankel,Founder Collective,null
+Ozonous,Eric Paley,Founder Collective,null
+meat,Bill Trenchard,Founder Collective,null
+packing,Caterina Fake,Founder Collective,null
+face,Chris Dixon,Founder Collective,null
+veil,Micah Rosenbloom,Founder Collective,null
+blaze,Zach Klein,Founder Collective,null
+out,Brad Burnham,Union Square Ventures,null
+Muffled,Fred Wilson,Union Square Ventures,null
+anti-aircraft,Albert Wenger,Union Square Ventures,null
+Birsha,John Buttrick,Union Square Ventures,null
+caffeinated,Andy Weissman,Union Square Ventures,null
+Accessary,Gary Chou,Union Square Ventures,null
+Invendible,Christina Cacioppo,Union Square Ventures,null
+Anomalistic,Dorsey Bryan,Union Square Ventures,null
+revolution,Paul Bricalt,AmplifyLA,null
+Senatorial,Richard Wolpert,AmplifyLA,null
+sculpturally,Jeff Solomon,AmplifyLA,null
+telegony,Oded Noy,AmplifyLA,null
+repeatable,David Carter,AmplifyLA,null
+Upstay,Jarl Mohn,AmplifyLA,null
+risnol,Jim Wiatt,AmplifyLA,null
+IS03,Paige Craig,AmplifyLA,null
+genus,Alex Finkelstein,Spark Capital,null
+Loiseleuria,Bijan Sabet,Spark Capital,null
+toasting,David Haber,Spark Capital,null
+fork,Mo Koyfman,Spark Capital,null
+Minimizimg,Nabeel Hyatt,Spark Capital,null
+pufabz,Paul Conway,Spark Capital,null
+N,Santo Politi,Spark Capital,null
+by,Todd Dagres,Spark Capital,null
+W,Zeeshan Zaidi,Spark Capital,null
+platinum,Jessica Livingston,Y-Combinator,null

@@ -3,3 +3,8 @@
 <%= render 'form' %>
 
 <%= link_to 'Back', angels_path %>
+
+<%= form_tag('import') do %>
+  <%= file_field_tag :file %>
+  <%= submit_tag %>
+<% end %>

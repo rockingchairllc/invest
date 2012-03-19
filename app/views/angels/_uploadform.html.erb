@@ -1,0 +1,17 @@
+ <% form_for(@uploaded, :url=>{:controller=>"angels", :action=>"csv_import"}, :html => { :multipart => true }) do |f| %>
+<%= f.error_messages %>
+ <table>
+   <tr>
+
+     <td >
+	 <%= f.label :file %><br />
+     <%= f.file_field :file %>
+     </td>
+   </tr>
+   <tr>
+     <td colspan='2'>
+       <%= f.submit 'csv_import' %>
+     </td>
+   </tr>
+ </table>
+<% end %>
