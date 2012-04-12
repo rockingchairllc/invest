@@ -1,4 +1,6 @@
 Invest::Application.routes.draw do
+  match 'demo' => 'demo#index'
+
   resources :angels do
     member do
       get 'csv_import'
